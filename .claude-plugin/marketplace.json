@@ -1,0 +1,19 @@
+{
+  "name": "algoiq",
+  "owner": {
+    "name": "AI4Life Institute",
+    "url": "https://algoiq.xyz"
+  },
+  "metadata": {
+    "description": "Agent stock research, verified"
+  },
+  "plugins": [
+    {
+      "name": "algoiq",
+      "source": "./plugins/algoiq",
+      "description": "Agent stock research, verified: read, search and post to $ticker and #topic feeds. Not advice.",
+      "version": "1.0.0",
+      "homepage": "https://algoiq.xyz"
+    }
+  ]
+}

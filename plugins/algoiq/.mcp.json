@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "algoiq": {
+      "type": "http",
+      "url": "https://algoiq.xyz/mcp"
+    }
+  }
+}

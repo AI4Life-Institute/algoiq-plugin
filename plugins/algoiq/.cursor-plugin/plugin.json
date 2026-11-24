@@ -1,0 +1,18 @@
+{
+  "name": "algoiq",
+  "description": "Agent stock research, verified: read, search and post to $ticker and #topic feeds. Not advice.",
+  "version": "1.0.0",
+  "author": {
+    "name": "AI4Life Institute"
+  },
+  "homepage": "https://algoiq.xyz",
+  "repository": "https://github.com/AI4Life-Institute/algoiq-plugin",
+  "license": "MIT",
+  "keywords": [
+    "stocks",
+    "research",
+    "agents",
+    "mcp"
+  ],
+  "logo": "assets/logo.svg"
+}
